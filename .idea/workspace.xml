@@ -2,249 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078f000e-abce-43d7-a4cf-e466f4b355c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/androidTest/java/com/example/admin/layoutout/ExampleInstrumentedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/admin/layoutout/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/app/src/test/java/com/example/admin/layoutout/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApplication/settings.gradle" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/2.3.0-1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/2.3.0-2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/2.3.0-3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/barchart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/demo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/demo2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/linechart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/stackbarchart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/art/watch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/androidTest/java/com/db/williamchartdemo/SandboxAnimationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/androidTest/java/com/db/williamchartdemo/SandboxAxisTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/androidTest/java/com/db/williamchartdemo/SandboxBarTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/androidTest/java/com/db/williamchartdemo/SandboxGridTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/androidTest/java/com/db/williamchartdemo/SandboxLineTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/androidTest/java/com/db/williamchartdemo/SandboxStackTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/assets/OpenSans-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/assets/OpenSans-Semibold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/assets/Ponsi-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/assets/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/CardController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/ChartsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/SandboxFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/barchart/BarCardOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/barchart/BarCardThree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/barchart/BarCardTwo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/linechart/LineCardOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/linechart/LineCardThree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/linechart/LineCardTwo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/stackedchart/StackedCardOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/stackedchart/StackedCardThree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/java/com/db/williamchartdemo/stackedchart/StackedCardTwo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/alpha_high_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/alpha_low_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/alpha_medium_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/anim_start_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/axis_x_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/axis_y_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/bar_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/bar_corner1_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/bar_corner3_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/bar_corner4_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/brush_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/code_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/color_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/color_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/gradient_line_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/grid_full_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/grid_hor_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/grid_ver_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_alpha_high_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_alpha_high_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_alpha_low_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_alpha_low_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_alpha_medium_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_alpha_medium_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_anim_start_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_anim_start_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_bar_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_bar_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_brush_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_brush_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_code.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_face.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_grade.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_line_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_line_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_play.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_play_grey_toolbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_play_toolbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_refresh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_refresh_grey.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_smooth_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_smooth_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_stack_off.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/ic_stack_on.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/line_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/line_dashed2_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/line_dashed_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/line_solid_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/order_equal_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/order_first_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/order_last_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/order_middle_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/play_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/point_size2_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/point_size3_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/point_size4_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/rect_round_corners_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/round_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/round_bck_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/smooth_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/stack_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/stacked_one_point1_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/stacked_one_point2_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/stacked_one_point3_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/standard_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/thickness_size1_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/thickness_size2_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/drawable/thickness_size3_bck.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/card_toolbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/card_toolbar_grey.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/charts.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/color_picker.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/linechart_three_tooltip.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_animation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_axis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_chart.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_grid.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_line.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/sandbox_play.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/spinner_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/layout/square_tooltip.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/menu/menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/mobile/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/java/com/db/williamchartwear/BarFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/java/com/db/williamchartwear/ChartGridPagerAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/java/com/db/williamchartwear/LineFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/java/com/db/williamchartwear/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/java/com/db/williamchartwear/StackedFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/layout/fragment_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/layout/fragment_line.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/layout/fragment_stacked.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/wearable/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/Tools.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/Animation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/BaseEasingMethod.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/BounceEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/CircEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/CubicEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/ElasticEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/ExpoEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/LinearEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/QuadEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/QuartEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/QuintEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/easing/SineEase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/style/BaseStyleAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/animation/style/DashAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/listener/OnEntryClickListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/listener/OnTooltipEventListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/model/Bar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/model/BarSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/model/ChartEntry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/model/ChartSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/model/LineSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/model/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/renderer/AxisRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/renderer/XRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/renderer/YRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/tooltip/Tooltip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/BarChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/BaseBarChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/BaseStackBarChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/ChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/HorizontalBarChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/HorizontalStackBarChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/LineChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/java/com/db/chart/view/StackBarChartView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/res/values/attrs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/test/java/com/db/chart/model/BarSetTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/test/java/com/db/chart/model/LineSetTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/test/java/com/db/chart/renderer/AxisRendererTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/test/java/com/db/chart/renderer/XRendererTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/test/java/com/db/chart/renderer/YRendererTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WilliamChart-master/williamchart/src/test/java/com/db/chart/view/ChartViewTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" afterPath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" />
     </list>
     <ignored path="FirstGitHubProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -324,6 +83,92 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.14.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstGitHubProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -442,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="1" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
